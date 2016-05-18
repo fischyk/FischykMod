@@ -1,0 +1,8 @@
+﻿l_english:
+ BIOENGINEERED_POP_SPECIES_1:0 "Bioengineered"
+ buildable_biologicals_1:1 "Bioengineered"
+ buildable_biologicals_1_desc:1 "These beings are biologically engineered thinking machines; they have higher order thinking and can make complex decisions, but they are designed to not feel anything, including pain."
+ trait_bioengineered:0 "Bioengineered"
+ trait_bioengineered_desc:0 "These beings are biologically engineered thinking machines; they have higher order thinking and can make complex decisions, but they are designed to not feel anything, including pain."
+ BIO:0 "Bioengineered"
+ bioengineered1:0 "Bioengineered Turtle"

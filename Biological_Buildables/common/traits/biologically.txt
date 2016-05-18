@@ -1,0 +1,13 @@
+
+trait_bioengineered = {
+	cost = 0
+	
+	initial = no
+	forced_happiness = 1.0
+	modifier = {
+		pop_environment_tolerance = 2.0
+		tile_resource_physics_research_mult = 0.25
+		slave_food_output = 0.1
+		pop_ethic_shift = -0.05
+	}
+}

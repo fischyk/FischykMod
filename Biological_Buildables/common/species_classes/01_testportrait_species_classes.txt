@@ -1,0 +1,8 @@
+BIO = {
+	portraits = {
+		"bioengineered1"
+	}
+
+	graphical_culture = fungoid_01
+   move_pop_sound_effect = "fungoid_pops_move"
+}

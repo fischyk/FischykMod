@@ -1,0 +1,4 @@
+portraits = {
+	bioengineered1 = {     texturefile = "gfx/portraits/bioengineered.dds"}
+}
+	
